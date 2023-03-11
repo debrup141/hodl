@@ -1,0 +1,16 @@
+{
+  "short_name": "HODL",
+  "name": "Hold On for Dear Life",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "HODL Wallet"
+  },
+  "icons": {
+    "16": "favicon.ico",
+    "32": "favicon.ico",
+    "192": "logo192.png",
+    "512": "logo512.png"
+  }
+}
